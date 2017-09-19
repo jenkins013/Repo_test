@@ -10,7 +10,7 @@ namespace MyFirstGitHumApplication
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!Edited to check poll scm functionality.Now checking Hook func after mange hook");
+            Console.WriteLine("Hello World!1234");
         }
     }
 }
