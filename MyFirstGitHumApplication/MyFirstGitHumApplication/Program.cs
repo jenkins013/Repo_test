@@ -10,7 +10,7 @@ namespace MyFirstGitHumApplication
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!1234...long time no change");
+            Console.WriteLine("Hello World!1234...long time to change...");
         }
     }
 }
