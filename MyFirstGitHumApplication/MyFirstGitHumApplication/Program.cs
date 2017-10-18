@@ -10,7 +10,7 @@ namespace MyFirstGitHumApplication
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!1234...trying to deploy");
+            Console.WriteLine("Hello World!1st deployment cut");
             Console.WriteLine("Change has been done");
             Console.ReadLine();                
         }
