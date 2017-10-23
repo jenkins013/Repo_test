@@ -12,6 +12,7 @@ namespace MyFirstGitHumApplication
         {
             Console.WriteLine("Hello World!1st deployment cut");
             Console.WriteLine("Change has been done");
+            Console.WriteLine("Another change has been done");
             Console.ReadLine();                
         }
     }
